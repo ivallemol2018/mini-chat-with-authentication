@@ -7,6 +7,5 @@ module.exports = {
   passwordDbEcommerce: process.env.PASSWORD_DB_ECOMMERCE,
   dbEcommerce : process.env.DB_ECOMMERCE,
   driverClassName: process.env.DRIVER_CLASS_NAME,
-  dbSession: process.env.DB_SESSION,
-  urlMongo: process.env.URL_MONGO
+  dbManagment: process.env.DB_MANAGMENT
 }
